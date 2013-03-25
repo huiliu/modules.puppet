@@ -1,0 +1,6 @@
+
+class libvirt::service {
+    service {
+
+    }
+}
